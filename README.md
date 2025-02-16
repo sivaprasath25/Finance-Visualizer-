@@ -60,7 +60,7 @@ npm run dev
 ![image](https://github.com/RamanKishore08/Personal-Finance-Tracker/blob/main/Screenshots/Index.jpg)
 
 ### CRUD
-![image](https://github.com/RamanKishore08/Personal-Finance-Tracker/blob/main/Screenshots/Perfomance.jpg)
+![image](https://github.com/RamanKishore08/Personal-Finance-Tracker/blob/main/Screenshots/Performance.jpg)
 
 ### Chart Visualization
 ![image](https://github.com/RamanKishore08/Personal-Finance-Tracker/blob/main/Screenshots/Chart.jpg)
