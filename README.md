@@ -4,6 +4,9 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=recharts&logoColor=white)
+![shadcn-ui](https://img.shields.io/badge/shadcn%2Dui-000000?style=for-the-badge&logo=ui&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 
 
@@ -24,18 +27,7 @@ git clone https://github.com/RamanKishore08/Personal-Finance-Tracker.git
 ```bash
 cd Personal-Finance-Tracker
 ```
-### Open Frontend
-```bash
-cd Frontend
-```
-### Install necessary libraries
-```bash
-npm install @shadcn/ui recharts axios @mui/material @emotion/react @emotion/styled
-```
-### Run Frontend
-```bash
-npm run dev
-```
+
 ### Open Backend
 ```bash
 cd backend
@@ -48,6 +40,18 @@ npm install express mongoose cors
 ### Run the Server
 ```bash
 node server.js
+```
+### Open Frontend
+```bash
+cd Frontend
+```
+### Install necessary libraries
+```bash
+npm install @shadcn/ui recharts axios @mui/material @emotion/react @emotion/styled
+```
+### Run Frontend
+```bash
+npm run dev
 ```
 
 # SCREENSHOTS
