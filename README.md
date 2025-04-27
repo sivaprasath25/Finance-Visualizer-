@@ -1,5 +1,2 @@
 # Finance-Visualizer- 
-HEAD
-Your local changes
-Changes from remote
-main
+Personal Finance Visualizer is a React-based web application designed to help you effortlessly track your expenses. Easily add, edit, or delete transactions, view detailed lists, and gain insights into your spending patterns with the help of Recharts. Built on a robust stack with Node.js, Express, and MongoDB, the app ensures speed and reliability. Future updates will introduce features like category tracking, budgeting tools, and dynamic dashboards to give you even more control over your finances.
